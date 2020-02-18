@@ -2,7 +2,7 @@
 
 
 ## Aerospace
-Aerospace UI/UX Design consultancy producing products such as global Service Center Application for Rolls-Royce & global network of Business Aviation maintenance facilities, integrating complex aerospace business models with business aviation user needs.
+Aerospace UI/UX Design Agency/Consultancy producing products such as global Service Center Application for Rolls-Royce Business Aviation, integrating complex aerospace business models with business aviation maintenance & end-user needs.
 
 ## Service UX
 UX Design concepts based on user insights & behavior, driven by objective and in-depth value stream, business model and market assessment knowledge & insights.
